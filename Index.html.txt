@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Force Academy - Thiruvarur</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Force Academy</h1>
+    <p class="slogan">The force you need. This is NF.</p>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#courses">Courses</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome to Force Academy</h2>
+    <p>We provide coaching for 9th to 12th CBSE - Maths, Physics & Chemistry.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Located in Thiruvarur, Force Academy is dedicated to helping students achieve academic success through focused teaching and personal guidance.</p>
+  </section>
+
+  <section id="courses">
+    <h2>Our Courses</h2>
+    <ul>
+      <li>9th CBSE - Maths, Science</li>
+      <li>10th CBSE - Maths, Science</li>
+      <li>11th CBSE - Maths, Physics, Chemistry</li>
+      <li>12th CBSE - Maths, Physics, Chemistry</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Location: Thiruvarur</p>
+    <p>📞 Phone: +91-XXXXXXXXXX</p>
+    <p>📧 Email: forceacademy@example.com</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Force Academy. All rights reserved.</p>
+  </footer>
+</body>
+</html>
